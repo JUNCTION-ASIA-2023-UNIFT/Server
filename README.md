@@ -3,7 +3,7 @@ Backend Server repository
 
 ## How to Run ? 
 
-### 1. set .env file
+### 1️. Set .env file
 
 |NAME|VAlUE|
 |---|:---|
@@ -13,7 +13,7 @@ Backend Server repository
 |MYSQL_PASSWORD|mysql user password|
 |MYSQL_ROOT_PASSWORD|mysqlroot password|
 
-### 2. Run Doker Compose
+### 2️. Run Doker Compose
 Run Container
 ```
 docker-compose up --build -d

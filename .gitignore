@@ -1,0 +1,5 @@
+/myenv
+.vscode
+/mysql_db/
+.env
+.DS_Store
